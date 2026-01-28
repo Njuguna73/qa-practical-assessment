@@ -1,0 +1,1 @@
+This folder will contain HTML and XML test reports after the CI/CD execution
